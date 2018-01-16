@@ -1,3 +1,3 @@
-React app that lets you input decisions then chooses one for you!
+React app that lets you input choices, then chooses one of them for you!
 
 Hosted at https://decide-for-me-react.herokuapp.com/
