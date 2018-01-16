@@ -1,0 +1,21 @@
+html {
+  // make rem base 10px instead of base 16px
+  font-size: 62.5%; 
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: $dark-blue;
+}
+
+h1 {
+  font-size: $m-size;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+}
